@@ -2,7 +2,11 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
+  - kardy01.re
+  - kardy02.re
+  - kardy03.re
+  - kardy04.re
+  - kardy05.re
 
 APPENDIX:
 
