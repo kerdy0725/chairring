@@ -15,7 +15,7 @@ X(旧Twitter)アカウント： @<href>{https://twitter.com/_0447222690292, @_04
 == 執筆活動 
 ご購入は、@<href>{https://note.com/kerdy/n/nbc5b753ab72c,かーでぃ書店}@<fn>{note000}からどうぞ。
 
-執筆のお仕事依は、Xをフォロー後にDMでお願いします。
+執筆のご依頼は、Xをフォロー後にDMでお願いします。
 
 //footnote[note000][https://note.com/kerdy/n/nbc5b753ab72c]
 
