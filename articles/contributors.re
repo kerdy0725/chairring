@@ -28,6 +28,6 @@ X(旧Twitter)アカウント： @<href>{https://twitter.com/_0447222690292, @_04
 
 
  : 商業誌
- ・Babylonjsレシピ集 vol.1～3 (Baylonjs勉強会)@<br>{}
+ ・Babylonjsレシピ集 vol.1～4 (Baylonjs勉強会)@<br>{}
  ・現場で使える!自動化入門 vol.1～2 (vol.1:野良ハック、vol.2:RPACommunity)
 //footnote[note002][https://techbookfest.org/market/search?q=%220447222690292%22]
